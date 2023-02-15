@@ -1,0 +1,7 @@
+bag,bags
+bottle,bottles
+egg,eggs
+leaf,leaves
+interval,intervals
+term,terms
+fungus,fungi

@@ -1,0 +1,4 @@
+Test suite haskell-test: RUNNING...
+haskell-test.exe: sample.txt: openFile: does not exist (No such file or directory)
+Test suite haskell-test: FAIL
+Test suite logged to: C:\Users\ASUS-PC\Desktop\Work\haskell\dist-newstyle\build\x86_64-windows\ghc-9.2.5\haskell-0.1.0.0\t\haskell-test\test\haskell-0.1.0.0-haskell-test.log
